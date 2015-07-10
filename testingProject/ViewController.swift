@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         button.addTarget(self, action: "Action:", forControlEvents: UIControlEvents.TouchUpInside)
         self.view.addSubview(button)
         
-        
+        println("Hello !!!")// first commit
     }
 
     

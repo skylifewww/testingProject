@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7BFC3C55-118A-4188-8E4D-97D8B706673F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testingProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E90502BCF106CDC3F9047C810BF32C393AA0583C</key>
+		<string>https://github.com/skylifewww/testingProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testingProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E90502BCF106CDC3F9047C810BF32C393AA0583C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/skylifewww/testingProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E90502BCF106CDC3F9047C810BF32C393AA0583C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E90502BCF106CDC3F9047C810BF32C393AA0583C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testingProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
